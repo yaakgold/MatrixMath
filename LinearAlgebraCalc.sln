@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixMath", "MatrixMath.csproj", "{6AD73679-F4C9-4F66-8312-10E87E23F4C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearAlgebra", "LinearAlgebra.csproj", "{6AD73679-F4C9-4F66-8312-10E87E23F4C7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldLib", "..\GoldLib\GoldLib.csproj", "{1042EC5E-BFB6-41F2-B7F3-FEF1BCB0AB8A}"
 EndProject
